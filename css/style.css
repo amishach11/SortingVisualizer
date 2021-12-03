@@ -76,11 +76,12 @@ nav .header_right .algos {
 
 nav .header_right .algos button {
   background-color: transparent;
-  border: none;
+  border-style: solid;
+  border-color:white;
   color: white;
   outline: none;
   padding: 6% 0%;
-  font-size: x-large;
+  font-size: 15px;
   margin-right:4px;
 }
 
