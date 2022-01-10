@@ -5,5 +5,5 @@ We have learnt sorting algorithms like bubble sort, selection sort, insertion so
 
 That's why we are making this project to let everyone understand how these algorithms work and through this project you also will get a deep understanding of such sorting algorithms
 
-If you have any queries 
-Contact Amishachopra21@gmail.com
+If you have any queries or suggestions
+Please Contact Amishachopra21@gmail.com
